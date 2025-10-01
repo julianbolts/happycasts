@@ -1,7 +1,7 @@
 # happycasts
 ad-free podcast app with AI features in Rust
 
-I want to learn Rust, so will use this opportunity to do so. My choice :P 🦀
+I want to practice Rust during [Hacktoberfest](https://hacktoberfest.com/) 2025, so will use this opportunity to do so. My choice :P 🦀
 
 ### Problem statement
 
